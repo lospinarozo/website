@@ -5,10 +5,8 @@ function Home() {
     return (
         <>
             <div className="typeset pb-6">
-                <blockquote className="text-xl italic">"The animal looks at us, and we
-                    are naked before
-                    it. Thinking perhaps
-                    begins there."
+                <blockquote className="text-xl italic">The said question of the said animal in its entirety comes down
+                    to knowing not whether the animal speaks but whether one can know what respond means.
                 </blockquote>
                 <p className="text-right text-primary">The Animal That Therefore I Am<br/>Jacques
                     Derrida</p>
