@@ -6,7 +6,7 @@ function Home() {
         <>
             <div className="typeset pb-6">
                 <blockquote className="text-xl italic">The said question of the said animal in its entirety comes down
-                    to knowing not whether the animal speaks but whether one can know what respond means.
+                    to knowing not whether the animal speaks, but whether one can know what it truly means to respond.
                 </blockquote>
                 <p className="text-right text-primary">The Animal That Therefore I Am<br/>Jacques
                     Derrida</p>
@@ -18,18 +18,18 @@ function Home() {
                 </Avatar>
                 <div className="typeset">
                     <h1>Who am I</h1>
-                    <p>I am a cross-disciplinary researcher investigating how biological structures manipulate light and
-                        using the optical principles perfected by millions of years of evolution to expand the design
-                        strategies of technological devices to control light.
+                    <p>A cross-disciplinary scientist investigating how biological nanostructures control light.
                     </p>
-                    <p>I am fascinated by how much effort it takes us humans to understand what comes so naturally to a
-                        bug.
-                        We use advanced microscopes, sophisticated algorithms and artificial intelligence; we solve
-                        equations, mix reagents and explore intricate geometries. All to understand how a tiny insect
-                        produces a flash of colour.</p>
-                    <p>But there is much to gain from paying attention. By understanding how nature works, we can
-                        uncover
-                        new principles and strategies to inspire better technologies for our own future.
+                    <p>I am fascinated by how much effort it takes us humans to understand what comes so naturally to
+                        other forms of life. We use advanced microscopes, electron accelerators, sophisticated
+                        algorithms aided by artificial intelligence. We solve equations, mix reagents and model
+                        intricate geometries. All that trouble to understand how a little bug produces a flash of
+                        colour?
+                    </p>
+                    <p>Yes! because there is much to gain from paying attention. By understanding how nature interacts
+                        with light, we can uncover new strategies to improve our human technologies.</p>
+                    <p>If nature has been perfecting photonic devices for millions of years, who are we to ignore its
+                        wisdom?
                     </p>
                 </div>
             </div>
