@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <div className="typeset pb-6">
-                <blockquote className="text-2xl italic">"The animal looks at us, and we
+                <blockquote className="text-xl italic">"The animal looks at us, and we
                     are naked before
                     it. Thinking perhaps
                     begins there."

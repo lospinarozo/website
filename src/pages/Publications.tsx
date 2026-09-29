@@ -29,10 +29,13 @@ import iridescenceHydrophobicityCover
 function Publications() {
     return (
         <>
-            <p className="typeset pb-6">
-                I am a believer in collaboration and open science. If you cannot access one of my papers through
-                your institution or open access, please get in touch and I’ll happily email you a copy.
-            </p>
+            <div className="typeset">
+                <h1>Publications</h1>
+                <p className="pb-6">
+                    I am a believer in collaboration and open science. If you cannot access one of my papers through
+                    your institution or open access, please get in touch and I’ll happily email you a copy.
+                </p>
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <PublicationCard image={fiddlerBeetlesCover}
                                  title="A subsurface array of photonic crystal slabs produces green stripes in a scarab beetle"
