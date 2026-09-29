@@ -308,11 +308,12 @@
 
         /* Blockquote. */
         &:where(blockquote) {
-            border-inline-start: 2px solid var(--typeset-rule);
-            padding-inline-start: 1em;
+            border-inline-end: 2px solid var(--typeset-rule);
+            padding-inline-end: 1em;
             margin-block-start: var(--typeset-flow);
             margin-block-end: 0;
             margin-inline: 0;
+            text-align: end;
         }
 
         /* Dividers. */
